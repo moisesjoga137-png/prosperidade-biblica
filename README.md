@@ -1,4 +1,4 @@
-[prosperidade-biblica-pro.html](https://github.com/user-attachments/files/23200681/prosperidade-biblica-pro.html)
+(https://github.com/user-attachments/files/23200681/prosperidade-biblica-pro.html)
 
 <html lang="pt-BR">
 <head>
